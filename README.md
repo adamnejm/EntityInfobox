@@ -1,6 +1,6 @@
-# EntityInfobox
+# Entity Infobox for FPP
 
-EntityInfobox shows you information about the entity you're looking at.  
+EntityInfobox shows information about the entity you're looking at.  
 It's designed to work with Falco's Prop Protection and executes fully on the clientside.
   
 entityinfobox_enabled [1]  
